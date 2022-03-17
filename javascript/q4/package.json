@@ -1,0 +1,19 @@
+{
+  "name": "q4",
+  "version": "1.0.0",
+  "description": "biblioteca que contem uma estrutura de vetor com 3 espaços, uma matriz 3x3, e operações com essas estruturas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gabrielsoaressn/lista_CG.git"
+  },
+  "author": "Gabriel Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielsoaressn/lista_CG/issues"
+  },
+  "homepage": "https://github.com/gabrielsoaressn/lista_CG#readme"
+}
